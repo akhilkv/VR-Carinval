@@ -102,7 +102,7 @@ public class CarnivalCoinToss : MonoBehaviour {
 		TMPro.TextMeshPro text = new GameObject().AddComponent<TMPro.TextMeshPro>();
 		text.transform.rotation = transform.rotation * Quaternion.Euler(0f, 270f, 0f);
 		text.transform.position = new Vector3(7.5f, 6f, -2f);
-		text.text = "OssDist0.7";
+		text.text = "Congrats!!1!";
 		#endif
 	}
 
